@@ -1,8 +1,5 @@
 ![image](https://github.com/khadidja2023M/crypto/assets/123754339/db696b4f-68b9-4ec7-b496-aaceecb93fa3)
-![image](https://github.com/khadidja2023M/crypto/assets/123754339/caa325e5-ad93-4b72-804c-c56f0ba2c2e6)
-
-
-
+![image](https://github.com/khadidja2023M/crypto/assets/123754339/df25a1e0-1843-4aa0-8441-85cf3edc67e1)
 # SOLiGence Cryptocurrency Forecast App
 SOLiGence is a streamlit app that allows users to purchase cryptocurrencies at lower prices and sell at higher prices for a substantive profit. 
 The dataset is from yahoo finance; it's real-world historical data. It has ten coins merged for nearly five years and a half from 01/01/2018 to 07/07/2023 with a 1-day interval.
