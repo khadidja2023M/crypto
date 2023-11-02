@@ -1,5 +1,6 @@
 ![image](https://github.com/khadidja2023M/crypto/assets/123754339/db696b4f-68b9-4ec7-b496-aaceecb93fa3)
-![Screenshot 2023-10-25 221323](https://github.com/khadidja2023M/crypto/assets/123754339/71b337f3-2238-4969-a0ec-6310f4fa0532)
+![image](https://github.com/khadidja2023M/crypto/assets/123754339/bdb9fd2b-a8ac-431e-9d47-a75eb161fdae)
+
 
 # SOLiGence Cryptocurrency Forecast App
 SOLiGence is a streamlit app that allows users to purchase cryptocurrencies at lower prices and sell at higher prices for a substantive profit. 
