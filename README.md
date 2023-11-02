@@ -1,5 +1,6 @@
 ![image](https://github.com/khadidja2023M/crypto/assets/123754339/db696b4f-68b9-4ec7-b496-aaceecb93fa3)
-![image](https://github.com/khadidja2023M/crypto/assets/123754339/bdb9fd2b-a8ac-431e-9d47-a75eb161fdae)
+![image](https://github.com/khadidja2023M/crypto/assets/123754339/caa325e5-ad93-4b72-804c-c56f0ba2c2e6)
+
 
 
 # SOLiGence Cryptocurrency Forecast App
